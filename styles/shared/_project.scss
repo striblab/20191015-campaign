@@ -45,26 +45,20 @@
    margin-bottom: 0 !important;
   }
 
+  .metric {
+    text-align:center;
+  }
+  
   .row {
     width:100%;
     margin-bottom:15px;
   }
 
-
-  .metric {
-    width:100%;
-    height:100px;
-    text-align:center;
-  }
-
-  .measure {
-    height:100px;
-    width:100%;
-  }
-
   .icon {
     font-size:3em;
     font-weight:900;
+    text-align:center;
+    color:#3580A3;
   }
 
  .elex-header {
